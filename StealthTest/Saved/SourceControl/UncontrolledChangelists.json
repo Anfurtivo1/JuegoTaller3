@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/PatrolV1.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Levels/initial.umap",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/PatrolV2.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Sounds/For_Testing/cute_cute_cute_cute_CUTEE.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Sounds/For_Testing/cute_cute_cute_cute_CUTEE_Cue.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/PatrolV3.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Materials/SpherePulse.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/StaminaHUD.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/ThirdPerson/Blueprints/Third_Person2.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Player/ThirdPersonPlayer.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Player/Inputs/Input_Action/IA_TurnCC.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Player/Inputs/Input_Action/IA_FowardCC.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Player/Inputs/Input_Action/IA_LeftRightCC.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Player/Inputs/IM_ThirdPersonCC.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Materials/PlayerMat.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Player/StaminaHUD.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/ThirdPersonPlayer.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Player/Inputs/IA_FowardCC.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Player/Inputs/IA_LeftRightCC1.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Player/Inputs/IA_LeftRightCC.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/StealthTest/Content/StealthTest/Player/Inputs/IA_TurnCC.uasset",
+				"C:/Users/User/Downloads/StealthTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/User/Downloads/StealthTest/Content/StealthTest/initial.umap",
+				"C:/Users/User/Downloads/StealthTest/Content/StealthTest/Levels/initial.umap",
+				"C:/Users/User/Downloads/StealthTest/Content/StealthTest/Materials/Ground.uasset",
+				"C:/Users/User/Downloads/StealthTest/Content/StealthTest/StealthHUD.uasset",
+				"C:/Users/User/Downloads/StealthTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/User/Downloads/StealthTest/Content/ThirdPerson/Blueprints/EnemyAIController.uasset",
+				"C:/Users/User/Downloads/StealthTest/Content/ThirdPerson/Blueprints/EnemyCharacter.uasset"
+			]
+		}
+	]
+}
